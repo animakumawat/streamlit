@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1QAq1lvQrL9CVQQvLWQI-b_wAwqfJXvow
 """
 
-pip install streamlit
-
 import streamlit as st
 
 # Function to find the largest number
